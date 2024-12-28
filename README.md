@@ -89,6 +89,8 @@ http://127.0.0.1:8000/generate/
 ### Visualization
 - The generated images are displayed using Matplotlib in a 5x5 grid.
 
+![Generated Images Sample](fan-images.PNG)
+
 ## Endpoints
 | Endpoint  | Method | Description                       |
 |-----------|--------|-----------------------------------|
