@@ -111,7 +111,7 @@ pip install tensorflow django numpy matplotlib
 
 ## Notes
 - Training the GAN can take some time depending on system specifications.
-- Make sure TensorFlow is properly installed and compatible with your hardware (GPU acceleration recommended).
+- Make sure TensorFlow is properly installed and compatible with your hardware.
 
 ## License
 This project is licensed under the MIT License.
