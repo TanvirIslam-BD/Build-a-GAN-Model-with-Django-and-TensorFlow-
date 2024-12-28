@@ -17,9 +17,13 @@ This project implements a simple Generative Adversarial Network (GAN) using Djan
 ## Project Structure
 ```
 project/
-|-- gan_project/
-|   |-- views.py          # GAN models, training, and generation logic
-|   |-- urls.py           # URL configuration
+|-- gan_app/
+|   |-- discriminator_builder.py # To build GAN's discriminator neural networks
+|   |-- gan_model.py         # To build GAN model
+|   |-- generate.py          # To generate image with trained GAN model
+|   |-- generator_builder.py # To build GAN's generator neural networks
+|   |-- train.py             # To train the GAN model
+|   |-- urls.py              # URL configuration
 |-- manage.py
 |-- requirements.txt      # Required dependencies
 |-- README.md             # Project documentation
