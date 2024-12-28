@@ -1,7 +1,7 @@
 Develop GAN AI with TensorFlow
 ============================================================
 
-This project implements a simple Generative Adversarial Network (GAN) using Django to generate images based on the MNIST dataset. The application allows users to trigger GAN training and generate synthetic images through HTTP requests.
+This project implements a simple Generative Adversarial Network (GAN) using Tensorflow to generate images based on the MNIST dataset. The application allows users to trigger GAN training and generate synthetic images through HTTP requests.
 
 ## Features
 - **Train a GAN**: Trigger GAN training via a Django view.
